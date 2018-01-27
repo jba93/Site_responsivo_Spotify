@@ -28,8 +28,7 @@ body{
 
 nav.navbar-transparente {
 	padding: 15px 0px;
-	width: 1349px;
-	/*margin-right: 20px;*/
+	margin-right: 17px; /* para não ficar sobre a barra de rolagem */
 	background: rgba(0, 0, 0, 0.6); /* cor preta e 60% de transparência */
 	border: none; /* tira a borda preta que estava lá */
 }
