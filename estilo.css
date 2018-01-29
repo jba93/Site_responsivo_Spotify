@@ -184,6 +184,9 @@ h3{
 	h1{
 		font-size: 70px;
 	}
+	nav.navbar-transparente {
+		margin-right: 0px;
+	}
 }
 
 /* md */
